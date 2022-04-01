@@ -9,4 +9,4 @@
 
 > Use this to prettify the response from the console => https://jsonformatter.org/json-pretty-print
 
-> Use this to convert the JSON into C# POCOS => https://wtools.io/convert-json-to-csharp-class
+> Use this to convert the JSON into C# POCOs => https://wtools.io/convert-json-to-csharp-class
